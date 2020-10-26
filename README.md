@@ -1,2 +1,0 @@
-# cdn
-Asset providing repository
